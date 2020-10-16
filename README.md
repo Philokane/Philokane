@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi, I'm Phil 
 
+I enjoy tech. 
+This is a work in progress. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=philokane)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
