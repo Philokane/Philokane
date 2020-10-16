@@ -1,7 +1,7 @@
 ### Hi, I'm Phil 
 
 I enjoy tech. 🔑
-This is a work in progress. 
+[p]This is a work in progress. 
 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
