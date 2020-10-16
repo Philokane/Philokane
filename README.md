@@ -1,6 +1,6 @@
 ### Hi, I'm Phil 
 
-I enjoy tech. 
+I enjoy tech. 🔑
 This is a work in progress. 
 
 
