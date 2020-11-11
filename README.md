@@ -1,9 +1,7 @@
 ### Hi, I'm Phil 
 
-I enjoy tech. 🔑
-
-This is a work in progress. 
-
+Please sign up to my newsletter.
+This is a friendly space.
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
