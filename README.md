@@ -1,7 +1,6 @@
 ### Hi, I'm Phil 
 
 Please sign up to my newsletter.
-This is a friendly space.
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
