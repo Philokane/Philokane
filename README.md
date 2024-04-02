@@ -1,7 +1,5 @@
 ### Hi, I'm Phil 
 
-Please sign up to my newsletter.
-
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 
